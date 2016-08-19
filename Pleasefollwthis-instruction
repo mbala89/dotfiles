@@ -1,0 +1,6 @@
+
+ 1. clone the nathan repo- https://github.com/BalamuruganMariyappan/dotfiles
+  2. Copy the extracted folder to your home folder
+   3.run install-dependencies.sh and then run install.sh
+    4. now open the vim editor and type :PlugInstall( This is will install the all plugin)
+
